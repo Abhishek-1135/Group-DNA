@@ -1,0 +1,338 @@
+01/04/24, 08:10 - Rahul: Good morning guys
+01/04/24, 08:14 - Priya: Good morning
+01/04/24, 12:30 - Aman: Lunch?
+01/04/24, 12:34 - Karan: Yes bro
+01/04/24, 18:10 - Rahul: Cricket today?
+01/04/24, 18:14 - Karan: I am in
+01/04/24, 21:20 - Neha: Good game everyone
+01/04/24, 23:20 - Vikas: Good night guys
+01/04/24, 17:05 - Rahul: Guys we should finish the project today
+01/04/24, 17:10 - Priya: Agreed
+01/04/24, 17:15 - Aman: I will handle the report
+01/04/24, 17:20 - Karan: I will handle the presentation
+01/04/24, 17:25 - Neha: I will check the data
+02/04/24, 09:05 - Priya: Who has the notes?
+02/04/24, 09:10 - Neha: I have them
+02/04/24, 09:12 - Neha: <Media omitted>
+02/04/24, 13:20 - Rahul: Lunch anyone?
+02/04/24, 13:25 - Aman: Coming
+02/04/24, 18:30 - Karan: Study session?
+02/04/24, 18:34 - Rahul: Yes
+02/04/24, 22:40 - Aman: Which chapter?
+03/04/24, 10:15 - Neha: Assignment done?
+03/04/24, 10:20 - Priya: Not yet
+03/04/24, 10:24 - Neha: Please finish it today
+03/04/24, 14:05 - Karan: I found a good cafe
+03/04/24, 14:08 - Rahul: Send location
+03/04/24, 14:09 - Karan: <Media omitted>
+03/04/24, 19:20 - Aman: Let's go tomorrow
+03/04/24, 19:25 - Priya: Sounds good
+04/04/24, 07:50 - Vikas: Anyone awake?
+04/04/24, 07:54 - Rahul: Yes
+04/04/24, 11:20 - Priya: Don't forget the meeting
+04/04/24, 11:25 - Aman: Thanks
+04/04/24, 16:40 - Neha: What time?
+04/04/24, 16:45 - Priya: At 5
+04/04/24, 20:15 - Karan: Meeting done
+04/04/24, 23:45 - Aman: Still working lol
+05/04/24, 09:00 - Rahul: Morning everyone
+05/04/24, 09:05 - Neha: Morning
+05/04/24, 12:05 - Priya: Anyone wants tea?
+05/04/24, 12:08 - Karan: Yes please
+05/04/24, 12:10 - Priya: Coming
+05/04/24, 18:40 - Aman: Football at 7?
+05/04/24, 18:44 - Rahul: Definitely
+05/04/24, 21:10 - Neha: That was fun
+06/04/24, 10:30 - Priya: Happy Saturday guys
+06/04/24, 10:35 - Rahul: Any plans?
+06/04/24, 10:40 - Aman: Breakfast first
+06/04/24, 15:20 - Karan: Market?
+06/04/24, 15:25 - Neha: Me too
+06/04/24, 20:05 - Priya: Dinner outside?
+06/04/24, 20:10 - Aman: Yes
+06/04/24, 22:55 - Rahul: Good night
+07/04/24, 08:10 - Rahul: Good morning guys
+07/04/24, 08:14 - Priya: Good morning
+07/04/24, 12:30 - Aman: Lunch?
+07/04/24, 12:34 - Karan: Yes bro
+07/04/24, 18:10 - Rahul: Cricket today?
+07/04/24, 18:14 - Karan: I am in
+07/04/24, 21:20 - Neha: Good game everyone
+08/04/24, 09:05 - Priya: Who has the notes?
+08/04/24, 09:10 - Neha: I have them
+08/04/24, 09:12 - Neha: <Media omitted>
+08/04/24, 13:20 - Rahul: Lunch anyone?
+08/04/24, 13:25 - Aman: Coming
+08/04/24, 18:30 - Karan: Study session?
+08/04/24, 18:34 - Rahul: Yes
+08/04/24, 22:40 - Aman: Which chapter?
+09/04/24, 10:15 - Neha: Assignment done?
+09/04/24, 10:20 - Priya: Not yet
+09/04/24, 10:24 - Neha: Please finish it today
+09/04/24, 14:05 - Karan: I found a good cafe
+09/04/24, 14:08 - Rahul: Send location
+09/04/24, 14:09 - Karan: <Media omitted>
+09/04/24, 19:20 - Aman: Let's go tomorrow
+09/04/24, 19:25 - Priya: Sounds good
+10/04/24, 07:50 - Vikas: Anyone awake?
+10/04/24, 07:54 - Rahul: Yes
+10/04/24, 11:20 - Priya: Don't forget the meeting
+10/04/24, 11:25 - Aman: Thanks
+10/04/24, 16:40 - Neha: What time?
+10/04/24, 16:45 - Priya: At 5
+10/04/24, 20:15 - Karan: Meeting done
+10/04/24, 23:45 - Aman: Still working lol
+10/04/24, 23:20 - Vikas: Good night guys
+11/04/24, 09:00 - Rahul: Morning everyone
+11/04/24, 09:05 - Neha: Morning
+11/04/24, 12:05 - Priya: Anyone wants tea?
+11/04/24, 12:08 - Karan: Yes please
+11/04/24, 12:10 - Priya: Coming
+11/04/24, 18:40 - Aman: Football at 7?
+11/04/24, 18:44 - Rahul: Definitely
+11/04/24, 21:10 - Neha: That was fun
+12/04/24, 10:30 - Priya: Happy Saturday guys
+12/04/24, 10:35 - Rahul: Any plans?
+12/04/24, 10:40 - Aman: Breakfast first
+12/04/24, 15:20 - Karan: Market?
+12/04/24, 15:25 - Neha: Me too
+12/04/24, 20:05 - Priya: Dinner outside?
+12/04/24, 20:10 - Aman: Yes
+12/04/24, 22:55 - Rahul: Good night
+12/04/24, 17:05 - Rahul: Guys we should finish the project today
+12/04/24, 17:10 - Priya: Agreed
+12/04/24, 17:15 - Aman: I will handle the report
+12/04/24, 17:20 - Karan: I will handle the presentation
+12/04/24, 17:25 - Neha: I will check the data
+13/04/24, 08:10 - Rahul: Good morning guys
+13/04/24, 08:14 - Priya: Good morning
+13/04/24, 12:30 - Aman: Lunch?
+13/04/24, 12:34 - Karan: Yes bro
+13/04/24, 18:10 - Rahul: Cricket today?
+13/04/24, 18:14 - Karan: I am in
+13/04/24, 21:20 - Neha: Good game everyone
+14/04/24, 09:05 - Priya: Who has the notes?
+14/04/24, 09:10 - Neha: I have them
+14/04/24, 09:12 - Neha: <Media omitted>
+14/04/24, 13:20 - Rahul: Lunch anyone?
+14/04/24, 13:25 - Aman: Coming
+14/04/24, 18:30 - Karan: Study session?
+14/04/24, 18:34 - Rahul: Yes
+14/04/24, 22:40 - Aman: Which chapter?
+15/04/24, 10:15 - Neha: Assignment done?
+15/04/24, 10:20 - Priya: Not yet
+15/04/24, 10:24 - Neha: Please finish it today
+15/04/24, 14:05 - Karan: I found a good cafe
+15/04/24, 14:08 - Rahul: Send location
+15/04/24, 14:09 - Karan: <Media omitted>
+15/04/24, 19:20 - Aman: Let's go tomorrow
+15/04/24, 19:25 - Priya: Sounds good
+16/04/24, 07:50 - Vikas: Anyone awake?
+16/04/24, 07:54 - Rahul: Yes
+16/04/24, 11:20 - Priya: Don't forget the meeting
+16/04/24, 11:25 - Aman: Thanks
+16/04/24, 16:40 - Neha: What time?
+16/04/24, 16:45 - Priya: At 5
+16/04/24, 20:15 - Karan: Meeting done
+16/04/24, 23:45 - Aman: Still working lol
+17/04/24, 09:00 - Rahul: Morning everyone
+17/04/24, 09:05 - Neha: Morning
+17/04/24, 12:05 - Priya: Anyone wants tea?
+17/04/24, 12:08 - Karan: Yes please
+17/04/24, 12:10 - Priya: Coming
+17/04/24, 18:40 - Aman: Football at 7?
+17/04/24, 18:44 - Rahul: Definitely
+17/04/24, 21:10 - Neha: That was fun
+18/04/24, 10:30 - Priya: Happy Saturday guys
+18/04/24, 10:35 - Rahul: Any plans?
+18/04/24, 10:40 - Aman: Breakfast first
+18/04/24, 15:20 - Karan: Market?
+18/04/24, 15:25 - Neha: Me too
+18/04/24, 20:05 - Priya: Dinner outside?
+18/04/24, 20:10 - Aman: Yes
+18/04/24, 22:55 - Rahul: Good night
+19/04/24, 08:10 - Rahul: Good morning guys
+19/04/24, 08:14 - Priya: Good morning
+19/04/24, 12:30 - Aman: Lunch?
+19/04/24, 12:34 - Karan: Yes bro
+19/04/24, 18:10 - Rahul: Cricket today?
+19/04/24, 18:14 - Karan: I am in
+19/04/24, 21:20 - Neha: Good game everyone
+19/04/24, 23:20 - Vikas: Good night guys
+20/04/24, 09:05 - Priya: Who has the notes?
+20/04/24, 09:10 - Neha: I have them
+20/04/24, 09:12 - Neha: <Media omitted>
+20/04/24, 13:20 - Rahul: Lunch anyone?
+20/04/24, 13:25 - Aman: Coming
+20/04/24, 18:30 - Karan: Study session?
+20/04/24, 18:34 - Rahul: Yes
+20/04/24, 22:40 - Aman: Which chapter?
+21/04/24, 10:15 - Neha: Assignment done?
+21/04/24, 10:20 - Priya: Not yet
+21/04/24, 10:24 - Neha: Please finish it today
+21/04/24, 14:05 - Karan: I found a good cafe
+21/04/24, 14:08 - Rahul: Send location
+21/04/24, 14:09 - Karan: <Media omitted>
+21/04/24, 19:20 - Aman: Let's go tomorrow
+21/04/24, 19:25 - Priya: Sounds good
+22/04/24, 07:50 - Vikas: Anyone awake?
+22/04/24, 07:54 - Rahul: Yes
+22/04/24, 11:20 - Priya: Don't forget the meeting
+22/04/24, 11:25 - Aman: Thanks
+22/04/24, 16:40 - Neha: What time?
+22/04/24, 16:45 - Priya: At 5
+22/04/24, 20:15 - Karan: Meeting done
+22/04/24, 23:45 - Aman: Still working lol
+23/04/24, 09:00 - Rahul: Morning everyone
+23/04/24, 09:05 - Neha: Morning
+23/04/24, 12:05 - Priya: Anyone wants tea?
+23/04/24, 12:08 - Karan: Yes please
+23/04/24, 12:10 - Priya: Coming
+23/04/24, 18:40 - Aman: Football at 7?
+23/04/24, 18:44 - Rahul: Definitely
+23/04/24, 21:10 - Neha: That was fun
+23/04/24, 17:05 - Rahul: Guys we should finish the project today
+23/04/24, 17:10 - Priya: Agreed
+23/04/24, 17:15 - Aman: I will handle the report
+23/04/24, 17:20 - Karan: I will handle the presentation
+23/04/24, 17:25 - Neha: I will check the data
+24/04/24, 10:30 - Priya: Happy Saturday guys
+24/04/24, 10:35 - Rahul: Any plans?
+24/04/24, 10:40 - Aman: Breakfast first
+24/04/24, 15:20 - Karan: Market?
+24/04/24, 15:25 - Neha: Me too
+24/04/24, 20:05 - Priya: Dinner outside?
+24/04/24, 20:10 - Aman: Yes
+24/04/24, 22:55 - Rahul: Good night
+25/04/24, 08:10 - Rahul: Good morning guys
+25/04/24, 08:14 - Priya: Good morning
+25/04/24, 12:30 - Aman: Lunch?
+25/04/24, 12:34 - Karan: Yes bro
+25/04/24, 18:10 - Rahul: Cricket today?
+25/04/24, 18:14 - Karan: I am in
+25/04/24, 21:20 - Neha: Good game everyone
+26/04/24, 09:05 - Priya: Who has the notes?
+26/04/24, 09:10 - Neha: I have them
+26/04/24, 09:12 - Neha: <Media omitted>
+26/04/24, 13:20 - Rahul: Lunch anyone?
+26/04/24, 13:25 - Aman: Coming
+26/04/24, 18:30 - Karan: Study session?
+26/04/24, 18:34 - Rahul: Yes
+26/04/24, 22:40 - Aman: Which chapter?
+27/04/24, 10:15 - Neha: Assignment done?
+27/04/24, 10:20 - Priya: Not yet
+27/04/24, 10:24 - Neha: Please finish it today
+27/04/24, 14:05 - Karan: I found a good cafe
+27/04/24, 14:08 - Rahul: Send location
+27/04/24, 14:09 - Karan: <Media omitted>
+27/04/24, 19:20 - Aman: Let's go tomorrow
+27/04/24, 19:25 - Priya: Sounds good
+28/04/24, 07:50 - Vikas: Anyone awake?
+28/04/24, 07:54 - Rahul: Yes
+28/04/24, 11:20 - Priya: Don't forget the meeting
+28/04/24, 11:25 - Aman: Thanks
+28/04/24, 16:40 - Neha: What time?
+28/04/24, 16:45 - Priya: At 5
+28/04/24, 20:15 - Karan: Meeting done
+28/04/24, 23:45 - Aman: Still working lol
+28/04/24, 23:20 - Vikas: Good night guys
+29/04/24, 09:00 - Rahul: Morning everyone
+29/04/24, 09:05 - Neha: Morning
+29/04/24, 12:05 - Priya: Anyone wants tea?
+29/04/24, 12:08 - Karan: Yes please
+29/04/24, 12:10 - Priya: Coming
+29/04/24, 18:40 - Aman: Football at 7?
+29/04/24, 18:44 - Rahul: Definitely
+29/04/24, 21:10 - Neha: That was fun
+30/04/24, 10:30 - Priya: Happy Saturday guys
+30/04/24, 10:35 - Rahul: Any plans?
+30/04/24, 10:40 - Aman: Breakfast first
+30/04/24, 15:20 - Karan: Market?
+30/04/24, 15:25 - Neha: Me too
+30/04/24, 20:05 - Priya: Dinner outside?
+30/04/24, 20:10 - Aman: Yes
+30/04/24, 22:55 - Rahul: Good night
+01/05/24, 08:10 - Rahul: Good morning guys
+01/05/24, 08:14 - Priya: Good morning
+01/05/24, 12:30 - Aman: Lunch?
+01/05/24, 12:34 - Karan: Yes bro
+01/05/24, 18:10 - Rahul: Cricket today?
+01/05/24, 18:14 - Karan: I am in
+01/05/24, 21:20 - Neha: Good game everyone
+02/05/24, 09:05 - Priya: Who has the notes?
+02/05/24, 09:10 - Neha: I have them
+02/05/24, 09:12 - Neha: <Media omitted>
+02/05/24, 13:20 - Rahul: Lunch anyone?
+02/05/24, 13:25 - Aman: Coming
+02/05/24, 18:30 - Karan: Study session?
+02/05/24, 18:34 - Rahul: Yes
+02/05/24, 22:40 - Aman: Which chapter?
+03/05/24, 10:15 - Neha: Assignment done?
+03/05/24, 10:20 - Priya: Not yet
+03/05/24, 10:24 - Neha: Please finish it today
+03/05/24, 14:05 - Karan: I found a good cafe
+03/05/24, 14:08 - Rahul: Send location
+03/05/24, 14:09 - Karan: <Media omitted>
+03/05/24, 19:20 - Aman: Let's go tomorrow
+03/05/24, 19:25 - Priya: Sounds good
+04/05/24, 07:50 - Vikas: Anyone awake?
+04/05/24, 07:54 - Rahul: Yes
+04/05/24, 11:20 - Priya: Don't forget the meeting
+04/05/24, 11:25 - Aman: Thanks
+04/05/24, 16:40 - Neha: What time?
+04/05/24, 16:45 - Priya: At 5
+04/05/24, 20:15 - Karan: Meeting done
+04/05/24, 23:45 - Aman: Still working lol
+04/05/24, 17:05 - Rahul: Guys we should finish the project today
+04/05/24, 17:10 - Priya: Agreed
+04/05/24, 17:15 - Aman: I will handle the report
+04/05/24, 17:20 - Karan: I will handle the presentation
+04/05/24, 17:25 - Neha: I will check the data
+05/05/24, 09:00 - Rahul: Morning everyone
+05/05/24, 09:05 - Neha: Morning
+05/05/24, 12:05 - Priya: Anyone wants tea?
+05/05/24, 12:08 - Karan: Yes please
+05/05/24, 12:10 - Priya: Coming
+05/05/24, 18:40 - Aman: Football at 7?
+05/05/24, 18:44 - Rahul: Definitely
+05/05/24, 21:10 - Neha: That was fun
+06/05/24, 10:30 - Priya: Happy Saturday guys
+06/05/24, 10:35 - Rahul: Any plans?
+06/05/24, 10:40 - Aman: Breakfast first
+06/05/24, 15:20 - Karan: Market?
+06/05/24, 15:25 - Neha: Me too
+06/05/24, 20:05 - Priya: Dinner outside?
+06/05/24, 20:10 - Aman: Yes
+06/05/24, 22:55 - Rahul: Good night
+07/05/24, 08:10 - Rahul: Good morning guys
+07/05/24, 08:14 - Priya: Good morning
+07/05/24, 12:30 - Aman: Lunch?
+07/05/24, 12:34 - Karan: Yes bro
+07/05/24, 18:10 - Rahul: Cricket today?
+07/05/24, 18:14 - Karan: I am in
+07/05/24, 21:20 - Neha: Good game everyone
+07/05/24, 23:20 - Vikas: Good night guys
+08/05/24, 09:05 - Priya: Who has the notes?
+08/05/24, 09:10 - Neha: I have them
+08/05/24, 09:12 - Neha: <Media omitted>
+08/05/24, 13:20 - Rahul: Lunch anyone?
+08/05/24, 13:25 - Aman: Coming
+08/05/24, 18:30 - Karan: Study session?
+08/05/24, 18:34 - Rahul: Yes
+08/05/24, 22:40 - Aman: Which chapter?
+09/05/24, 10:15 - Neha: Assignment done?
+09/05/24, 10:20 - Priya: Not yet
+09/05/24, 10:24 - Neha: Please finish it today
+09/05/24, 14:05 - Karan: I found a good cafe
+09/05/24, 14:08 - Rahul: Send location
+09/05/24, 14:09 - Karan: <Media omitted>
+09/05/24, 19:20 - Aman: Let's go tomorrow
+09/05/24, 19:25 - Priya: Sounds good
+10/05/24, 07:50 - Vikas: Anyone awake?
+10/05/24, 07:54 - Rahul: Yes
+10/05/24, 11:20 - Priya: Don't forget the meeting
+10/05/24, 11:25 - Aman: Thanks
+10/05/24, 16:40 - Neha: What time?
+10/05/24, 16:45 - Priya: At 5
+10/05/24, 20:15 - Karan: Meeting done
+10/05/24, 23:45 - Aman: Still working lol
